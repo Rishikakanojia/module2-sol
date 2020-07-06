@@ -1,4 +1,5 @@
-{
+
+* {
   box-sizing: border-box;
 }
 
@@ -45,9 +46,9 @@ body {
    border-color: cyan;color:navy black;
 }
 
-
 @media screen and (max-width:600px) {
   .column {
     width: 100%;
   }
 }
+
